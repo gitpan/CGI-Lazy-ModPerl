@@ -1,4 +1,4 @@
-CGI-Lazy-ModPerl version 0.02
+CGI-Lazy-ModPerl version 0.03
 =============================
 
 Module for handling the wierdness that entails when you move from normal cgi scripting into the wonderful world of mod_perl.

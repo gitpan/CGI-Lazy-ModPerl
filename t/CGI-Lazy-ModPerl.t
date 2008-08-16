@@ -8,9 +8,9 @@
 use Test::More tests => 4;
 
 BEGIN { 
-	use_ok('Apache2::Const');
-	use_ok('Apache2::RequestUtil');
-	use_ok('CGI::Lazy');
+	use_ok('Apache2::Const', 2.0);
+	use_ok('Apache2::RequestUtil', 2.0);
+	use_ok('CGI::Lazy', 0.01);
 };
 
 #########################

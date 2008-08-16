@@ -7,4 +7,6 @@ Revision history for Perl extension CGI::Lazy::ModPerl.
 
 0.02-r3 -fixed pod formatting
 
+0.03	-fixed distribution, got sick of seeing the release numbers
+
 
