@@ -7,7 +7,9 @@ use CGI::Lazy::Globals;
 use Apache2::Const;
 use Apache2::RequestUtil;
 
-our $VERSION = '0.03';
+no warnings qw(uninitialized redefine);
+
+our $VERSION = '0.04';
 
 #------------------------------------------------------------------------------
 sub _sessionCleanup {
